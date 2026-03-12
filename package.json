@@ -1,7 +1,7 @@
 {
   "name": "nodejs-security-2",
   "version": "1.0.0",
-  "description": "Hash, Encrypt and Decrypt with the Node.js Crypto module.",
+  "description": "Hash, Encrypt and Decrypt with the NodeJS Crypto module.",
   "main": "src/app.js",
   "scripts": {
     "test": "mocha tests/",
