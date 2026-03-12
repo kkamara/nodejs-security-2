@@ -1,6 +1,6 @@
-# nodejs-security2 [![Run CI](https://github.com/kkamara/nodejs-security2/actions/workflows/node.js.yml/badge.svg)](https://github.com/kkamara/nodejs-security2/actions/workflows/node.js.yml)
+# nodejs-security-2 [![Run CI](https://github.com/kkamara/nodejs-security-2/actions/workflows/node.js.yml/badge.svg)](https://github.com/kkamara/nodejs-security-2/actions/workflows/node.js.yml)
 
-Hash, Encrypt and Decrypt with Node.js Crypto module.
+Hash, Encrypt and Decrypt with NodeJS Crypto module.
 
 ## Installation
 
@@ -19,13 +19,13 @@ Hash, Encrypt and Decrypt with Node.js Crypto module.
 ```
 
 ```
-MacBook-Air:nodejs-security2 kel$ yarn start
+MacBook-Air:nodejs-security-2 kel$ yarn start
 yarn run v1.22.19
 $ yarn node src/index.js
 encrypted text 04f08299ad2c9d161426a84adffb324f:4cf2763f9c1bd14ec69390597a9c931d
 decrypted text Hello World
 ✨  Done in 0.47s.
-MacBook-Air:nodejs-security2 kel$ vim src/encryption.js
+MacBook-Air:nodejs-security-2 kel$ vim src/encryption.js
 ```
 
 ## To run api tests
